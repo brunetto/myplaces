@@ -58,12 +58,34 @@
     },
     {
       "type": "Feature",
-      "properties": {"City": "151.21650"},
+      "properties": {"City": "Sydney"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           151.21650, 
           -33.85388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Bondi Beach"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27516, 
+          -33.89086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Byron Bay"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.6135, 
+          -28.6421
         ]
       }
     }
