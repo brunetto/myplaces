@@ -88,6 +88,50 @@
           -28.6421
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Brisbane"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0256, 
+          -27.4688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Robina"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3913, 
+          -28.0748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Rinkaby"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27366, 
+          55.98208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Istanbul"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9663, 
+          41.0107
+        ]
+      }
     }
   ]
 }
