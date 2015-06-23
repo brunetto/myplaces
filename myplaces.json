@@ -3,7 +3,7 @@
   "features": [
 	{
       "type": "Feature",
-      "properties": {"City": Venezia},
+      "properties": {"City": "Venezia"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +14,7 @@
     }, 
     {
       "type": "Feature",
-      "properties": {"City": Padova},
+      "properties": {"City": "Padova"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +25,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"City": Nairobi},
+      "properties": {"City": "Nairobi"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,12 +36,100 @@
     },
     {
       "type": "Feature",
-      "properties": {"City": Luanda},
+      "properties": {"City": "Luanda"},
       "geometry": {
         "type": "Point",
         "coordinates": [
           13.2423,
           -8.8217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Melbourne"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96300, 
+          -37.81431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          , 
+          
         ]
       }
     },
