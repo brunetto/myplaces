@@ -132,6 +132,39 @@
           41.0107
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Jerusalem"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22197, 
+          31.77968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Cairo"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2465, 
+          30.0456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Athens"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7285, 
+          37.9844
+        ]
+      }
     }
   ]
 }
