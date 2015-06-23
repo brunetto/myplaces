@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	{
+      "type": "Feature",
+      "properties": {"City": Venezia},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19744,
+          45.48605
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"City": Padova},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86846,
+          45.40221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": Nairobi},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8195,
+          -1.2811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": Luanda},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2423,
+          -8.8217
+        ]
+      }
+    },
+  ]
+}
+
+
+

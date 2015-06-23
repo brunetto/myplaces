@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"City": Padova},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86846,
+          45.40221
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {"City": Padova},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86846,
+          45.40221
+        ]
+      }
+    }
+  ]
+}
+
+
+
