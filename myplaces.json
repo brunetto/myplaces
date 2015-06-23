@@ -58,81 +58,15 @@
     },
     {
       "type": "Feature",
-      "properties": {"City": },
+      "properties": {"City": "151.21650"},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          , 
-          
+          151.21650, 
+          -33.85388
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"City": },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          , 
-          
-        ]
-      }
-    },
+    }
   ]
 }
 
