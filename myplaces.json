@@ -728,6 +728,18 @@
           44.4928
         ]
       }
+    },
+    ,
+    {
+      "type": "Feature",
+      "properties": {"City": "Shanghai"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4895, 
+          31.2274
+        ]
+      }
     }
   ]
 }
