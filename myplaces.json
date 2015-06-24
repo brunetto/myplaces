@@ -451,6 +451,50 @@
           43.8774
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Madrid"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7047, 
+          40.4169
+        ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {"City": "Barcelona"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1755, 
+          41.3810
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Santiago de Compostela"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452, 
+          42.8804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Bilbao"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93487, 
+          43.26307
+        ]
+      }
     }
   ]
 }
