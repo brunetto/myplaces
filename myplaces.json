@@ -649,6 +649,28 @@
           46.42980
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Essen"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0308, 
+          52.7808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Finale Emilia"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29385, 
+          44.83476
+        ]
+      }
     }
   ]
 }
