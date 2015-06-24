@@ -684,7 +684,18 @@
           40.1498
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Troia"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2189, 
+          39.7906
+        ]
+      }
+    },
   ]
 }
 
