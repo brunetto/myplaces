@@ -418,6 +418,39 @@
           48.6358
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Lisboa"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1207, 
+          38.6938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Trieste"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7711, 
+          45.6515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Foreste casentinesi"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7697, 
+          43.8774
+        ]
+      }
     }
   ]
 }
