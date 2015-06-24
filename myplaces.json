@@ -374,6 +374,50 @@
           40.7489
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Koln"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9598, 
+          50.9384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "London"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12762, 
+          51.50725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Paris"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34896, 
+          48.85374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Mont Saint-Michel"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5115, 
+          48.6358
+        ]
+      }
     }
   ]
 }
