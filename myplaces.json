@@ -729,7 +729,6 @@
         ]
       }
     },
-    ,
     {
       "type": "Feature",
       "properties": {"City": "Shanghai"},
