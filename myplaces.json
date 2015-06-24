@@ -652,7 +652,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"City": "Essen"},
+      "properties": {"City": "Essen",
+      	"Event": "Matrimonio Gava"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
