@@ -550,6 +550,105 @@
           52.3831
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Torino"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6864, 
+          45.0720
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Milano"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19035, 
+          45.46661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Genova"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9337, 
+          44.4069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Klangenfurt"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3069, 
+          46.6215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Frankfurt"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6796, 
+          50.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Heidelberg"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6929, 
+          49.4097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Bad Honnef"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2243, 
+          50.6453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Landshut"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1557, 
+          48.5398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Caracoi Cimai"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98939, 
+          46.42980
+        ]
+      }
     }
   ]
 }
