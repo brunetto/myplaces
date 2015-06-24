@@ -673,6 +673,28 @@
           44.83476
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Troia},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2189, 
+          39.7906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Çanakkale"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4153, 
+          40.1498
+        ]
+      }
     }
   ]
 }
