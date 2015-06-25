@@ -739,6 +739,17 @@
           31.2274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Isiolo"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5849, 
+          0.3539
+        ]
+      }
     }
   ]
 }
