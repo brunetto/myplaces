@@ -816,6 +816,50 @@
           37.9359
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Perugia"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3813, 
+          43.1102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Assisi"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6172, 
+          43.0709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Oxford"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2566, 
+          51.7560
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Cambridge"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1230, 
+          52.2043
+        ]
+      }
     }
   ]
 }
