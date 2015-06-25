@@ -750,6 +750,72 @@
           0.3539
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Mount Kenya"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3084, 
+          -0.1521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Ol Moran"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4951, 
+          0.5356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Wamba"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3241, 
+          0.9832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Nyahururu"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3620, 
+          0.0365
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"City": "Thessaloniki"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9460, 
+          40.6211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"City": "Corinth"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9306, 
+          37.9359
+        ]
+      }
     }
   ]
 }
