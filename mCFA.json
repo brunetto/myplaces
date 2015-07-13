@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	{
+      "type": "Feature",
+      "properties": {"Place": "Firenze S.M. Novella", 
+                     "n": "1"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24917,
+          43.77476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Place": "Santuario Madonna del Sasso", 
+                     "n": "2"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3832,
+          43.8619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Place": "Barbiana", 
+                     "n": "3"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4522,
+          43.9200
+        ]
+      }
+    } 
+}
