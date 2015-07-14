@@ -36,6 +36,17 @@
     } ,
     {
       "type": "Feature",
+      "properties": {"Place": "Hike night", "n": "3"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4616,
+          43.8937
+        ]
+      }
+    } ,
+    {
+      "type": "Feature",
       "properties": {"Place": "Casale (San Godenzo)", "n": "8"},
       "geometry": {
         "type": "Point",
