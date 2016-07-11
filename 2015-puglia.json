@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	  {
+      "type": "Feature",
+      "properties": {"City": "Mattinata"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.04696,
+          41.70973
+        ]
+      }
+    }, 
+  ]
+}
