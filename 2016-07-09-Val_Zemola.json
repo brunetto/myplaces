@@ -22,6 +22,17 @@
           46.32138
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Casera Bedin"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3653,
+          46.316
+        ]
+      }
     }
   ]
 }
