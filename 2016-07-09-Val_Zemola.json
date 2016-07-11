@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	  {
+      "type": "Feature",
+      "properties": {"": "Rifugio Casera Mela"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.36685,
+          46.29313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Rifugio Maniago"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39052,
+          46.32138
+        ]
+      }
+    }
+  ]
+}
