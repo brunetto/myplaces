@@ -11,6 +11,17 @@
           41.70973
         ]
       }
-    }, 
+    },
+    {
+      "type": "Feature",
+      "properties": {"Località": "Bosco Selva"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.23519,
+          40.77067
+        ]
+      }
+    }
   ]
 }
