@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	  {
+      "type": "Feature",
+      "properties": {"": "Rifugio Biella"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0846136,
+          46.6656397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Rifugio Pederù"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0413147,
+          46.6383963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Cortina"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.111,
+          46.546
+        ]
+      }
+    }
+  ]
+}
