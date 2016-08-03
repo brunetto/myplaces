@@ -22,6 +22,17 @@
           40.77067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Località": "Agriturismo Lu Cannittu - Torre Pali"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.21421,
+          39.85887
+        ]
+      }
     }
   ]
 }
