@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	  {
+      "type": "Feature",
+      "properties": {"": "Rifugio 5 Torri"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0547484,
+          46.5081869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Rifugio Scoiattoli"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0467129,
+          46.5081074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Rifugio Nuvolau"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0458948,
+          46.495026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Passo Giau"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.051978,
+          46.4830556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Cason di Travenanzes"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0392502,
+          46.5522472
+        ]
+      }
+    }
+  ]
+}
