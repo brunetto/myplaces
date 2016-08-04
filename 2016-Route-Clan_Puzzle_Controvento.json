@@ -44,6 +44,17 @@
           46.6072381
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Cason di Travenanzes"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0392502,
+          46.5522472
+        ]
+      }
     }
   ]
 }
