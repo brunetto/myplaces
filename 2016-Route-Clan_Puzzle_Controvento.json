@@ -33,6 +33,17 @@
           46.546
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Lago di Limo"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0188931,
+          46.6072381
+        ]
+      }
     }
   ]
 }
