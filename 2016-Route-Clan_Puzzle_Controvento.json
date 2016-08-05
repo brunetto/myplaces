@@ -55,6 +55,17 @@
           46.5522472
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"": "Bain de Dones"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0383796,
+          46.5185788
+        ]
+      }
     }
   ]
 }
